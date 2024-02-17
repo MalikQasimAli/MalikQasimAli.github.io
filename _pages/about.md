@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a final-year PhD candidate at [Western Norway University of Applied Sciences (HVL)](https://hvl.no/en/) in Bergen, Norway. My areas of research and expertise include <b>Eye-tracking technologies, Data Analysis, and Data Engineering.</b> I have diverse experience from industry and academia with several technologies and programming languages.
 
-Projects and Technologies
+<i class="fa-solid fa-rocket fa-sm"></i> Projects and Technologies
 ======
 <ol>
   <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG</a>, <a href="https://www.mdpi.com/2078-2489/13/12/569">1</a>, <a href="https://ieeexplore.ieee.org/document/9280169">2</a>
@@ -41,7 +41,7 @@ Projects and Technologies
   </span> </li>
 </ol>
 
-<i class="fa-solid fa-certificate fa-lg"></i> Certificates
+<i class="fa-solid fa-certificate fa-sm"></i> Certificates
 ======
 <ol>
 <li> Microsoft Certified: Azure Fundamentals AZ-900</li>
