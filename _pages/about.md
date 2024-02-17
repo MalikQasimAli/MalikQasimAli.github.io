@@ -12,9 +12,9 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
 Projects and Technologies
 ======
 <ol>
-  <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG, HVL</a></li>
-  <li>Data Analysis </li>
-  <li>Milk</li>
+  <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG, HVL</a>, <a href="https://www.mdpi.com/2078-2489/13/12/569">1</a>, <a href="https://ieeexplore.ieee.org/document/9280169">2</a></li>
+  <li>Data Analysis at <a href="https://www.hvl.no/prosjekt/2684246/">CIG, HVL</a>, <a href="https://dl.acm.org/doi/10.1145/3588015.3589536">1</a></li>
+  <li>Data Engineering from Microsoft Azure </li>
 </ol>
 
 
