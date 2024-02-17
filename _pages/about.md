@@ -23,21 +23,21 @@ Projects and Technologies
   </span></li>
   <li>Data Analysis <a href="https://dl.acm.org/doi/10.1145/3588015.3589536">1</a>, <a href="https://github.com/MalikQasimAli/OlympicDataAnalysis">2</a>
   <br> <span style="margin-left: 20px;">
-    <i class="fab fa-microsoft fa-sm"></i> Azure Synapse Studio,
-    <i class="fas fa-database fa-sm"></i> SQL,
-    <i class="fab fa-python fa-sm"></i> Python,
-    <i class="fa-regular fa-warehouse fa-sm"></i> Data Warehouse
+    <i class="fab fa-microsoft fa-xs"></i> Azure Synapse Studio,
+    <i class="fas fa-database fa-xs"></i> SQL,
+    <i class="fab fa-python fa-xs"></i> Python,
+    <i class="fa-regular fa-warehouse fa-xs"></i> Data Warehouse
   </span></li>
   <li>Data Engineering from Microsoft Azure
   <br><span style="margin-left: 20px;">
-  <i class="fa-brands fa-microsoft fa-sm"></i> Azure Synapse Studio,
-  <i class="fas fa-database fa-sm"></i> NO-SQL,
-  <i class="fas fa-database fa-sm"></i> SQL,
-  <i class="fab fa-python fa-sm"></i> Python,
-  <i class="fas fa-water fa-sm"></i> Data Lake,
-  <i class="fas fa-lake fa-sm"></i> Delta Lake,
-  <i class="fa-brands fa-connectdevelop fa-sm"></i> ETL,
-  <i class="fas fa-fire fa-sm"></i> Spark
+  <i class="fa-brands fa-microsoft fa-xs"></i> Azure Synapse Studio,
+  <i class="fas fa-database fa-xs"></i> NO-SQL,
+  <i class="fas fa-database fa-xs"></i> SQL,
+  <i class="fab fa-python fa-xs"></i> Python,
+  <i class="fas fa-water fa-xs"></i> Data Lake,
+  <i class="fas fa-lake fa-xs"></i> Delta Lake,
+  <i class="fa-brands fa-connectdevelop fa-xs"></i> ETL,
+  <i class="fas fa-fire fa-xs"></i> Spark
   </span> </li>
 </ol>
 
