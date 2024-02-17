@@ -41,9 +41,12 @@ Projects and Technologies
   </span> </li>
 </ol>
 
-Certificates
+<<i class="fa-solid fa-certificate fa-lg"></i> Certificates
 ======
-
+<ol>
+<li> Microsoft Certified: Azure Fundamentals AZ-900</li>
+<li> Microsoft Certified: Azure Data Fundamentals DP-900</li>
+</ol>
 
 Getting started
 ======
