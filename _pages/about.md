@@ -29,7 +29,7 @@ Projects and Technologies
     <i class="fa-regular fa-warehouse"></i> Data Warehouse
   </span></li>
   <li>Data Engineering from Microsoft Azure
-  <br><span style="margin-left: 20px;"><li>
+  <br><span style="margin-left: 20px;">
   <i class="fa-brands fa-microsoft"></i> Azure Synapse Studio,
   <i class="fas fa-database"></i> NO-SQL,
   <i class="fas fa-database"></i> SQL,
