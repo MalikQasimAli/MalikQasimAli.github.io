@@ -15,11 +15,11 @@ Projects and Technologies
   <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG</a>, <a href="https://www.mdpi.com/2078-2489/13/12/569">1</a>, <a href="https://ieeexplore.ieee.org/document/9280169">2</a>
    <br>
     <span style="margin-left: 20px;">
-    <i class="fa-solid fa-c fa-sm"></i> C#, 
-    <i class="fab fa-java fa-sm"></i> JAVA, 
-    <i class="fab fa-python fa-sm"></i> Python, 
-    <i class="fas fa-database fa-sm"></i> SQL, 
-    <i class="fas fa-database fa-sm"></i> PostgreSql
+    <i class="fa-solid fa-c fa-xs"></i> C#, 
+    <i class="fab fa-java fa-xs"></i> JAVA, 
+    <i class="fab fa-python fa-xs"></i> Python, 
+    <i class="fas fa-database fa-xs"></i> SQL, 
+    <i class="fas fa-database fa-xs"></i> PostgreSql
   </span></li>
   <li>Data Analysis <a href="https://dl.acm.org/doi/10.1145/3588015.3589536">1</a>, <a href="https://github.com/MalikQasimAli/OlympicDataAnalysis">2</a>
   <br> <span style="margin-left: 20px;">
