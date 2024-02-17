@@ -38,7 +38,7 @@ Projects and Technologies
   <i class="fas fa-lake"></i> Delta Lake,
   <i class="fa-brands fa-connectdevelop"></i> ETL,
   <i class="fas fa-fire"></i> Spark
-</li></span> </li>
+  </span> </li>
 </ol>
 
 Certificates
