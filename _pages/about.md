@@ -41,7 +41,7 @@ Projects and Technologies
   </span> </li>
 </ol>
 
-<<i class="fa-solid fa-certificate fa-lg"></i> Certificates
+<i class="fa-solid fa-certificate fa-lg"></i> Certificates
 ======
 <ol>
 <li> Microsoft Certified: Azure Fundamentals AZ-900</li>
