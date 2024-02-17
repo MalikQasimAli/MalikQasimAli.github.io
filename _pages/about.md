@@ -22,7 +22,12 @@ Projects and Technologies
     <i class="fas fa-database"></i> PostgreSql
   </span></li>
   <li>Data Analysis <a href="https://dl.acm.org/doi/10.1145/3588015.3589536">1</a>, <a href="https://github.com/MalikQasimAli/OlympicDataAnalysis">2</a>
-  <br><span style="margin-left: 20px;">Azure Synapse Studio, SQL, Python, Data warehouse</span></li>
+  <br> <span style="margin-left: 20px;">
+    <i class="fab fa-microsoft"></i> Azure Synapse Studio,
+    <i class="fas fa-database"></i> SQL,
+    <i class="fab fa-python"></i> Python,
+    <i class="fa-regular fa-warehouse"></i> Data Warehouse
+  </span></li>
   <li>Data Engineering from Microsoft Azure
   <br><span style="margin-left: 20px;">Azure Synapse Studio, NO-SQL, SQL, Python, Data Lake, Delta Lake, ETL, Spark</span> </li>
 </ol>
