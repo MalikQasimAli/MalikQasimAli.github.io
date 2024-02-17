@@ -29,7 +29,16 @@ Projects and Technologies
     <i class="fa-regular fa-warehouse"></i> Data Warehouse
   </span></li>
   <li>Data Engineering from Microsoft Azure
-  <br><span style="margin-left: 20px;">Azure Synapse Studio, NO-SQL, SQL, Python, Data Lake, Delta Lake, ETL, Spark</span> </li>
+  <br><span style="margin-left: 20px;"><li>
+  <i class="fa-brands fa-microsoft"></i> Azure Synapse Studio,
+  <i class="fas fa-database"></i> NO-SQL,
+  <i class="fas fa-database"></i> SQL,
+  <i class="fab fa-python"></i> Python,
+  <i class="fas fa-water"></i> Data Lake,
+  <i class="fas fa-lake"></i> Delta Lake,
+  <i class="fa-brands fa-connectdevelop"></i> ETL,
+  <i class="fas fa-fire"></i> Spark
+</li></span> </li>
 </ol>
 
 Certificates
