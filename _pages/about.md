@@ -47,10 +47,10 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
 <i class="fa-solid fa-certificate fa-sm"></i> Certificates
 ======
 <ol>
-<li> Microsoft Certified: Azure Fundamentals AZ-900</li>
-<li> Microsoft Certified: Azure Data Fundamentals DP-900</li>
-<li> IBM: Data Analysis with Python</li>
-<li> IBM: Docker Essentials</li>
+<li> Microsoft Certified: Azure Fundamentals AZ-900 <a href="https://github.com/MalikQasimAli/MalikQasimAli.github.io/blob/7425dd1b1895c6dbf08b5dcf89fcab8e9e7e6eec/images/az900.PNG">1</a></li>
+<li> Microsoft Certified: Azure Data Fundamentals DP-900 <a href="https://github.com/MalikQasimAli/MalikQasimAli.github.io/blob/7425dd1b1895c6dbf08b5dcf89fcab8e9e7e6eec/images/dp900.PNG">1</a></li>
+<li> IBM: Data Analysis with Python <a href="https://github.com/MalikQasimAli/MalikQasimAli.github.io/blob/7425dd1b1895c6dbf08b5dcf89fcab8e9e7e6eec/images/dataanalysis.PNG">1</a></li>
+<li> IBM: Docker Essentials <a href="https://github.com/MalikQasimAli/MalikQasimAli.github.io/blob/7425dd1b1895c6dbf08b5dcf89fcab8e9e7e6eec/images/docker.PNG">1</a></li>
 </ol>
 
 Getting started
