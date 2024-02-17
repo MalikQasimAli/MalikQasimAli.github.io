@@ -53,13 +53,14 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
 <li> IBM: Docker Essentials <a href="https://github.com/MalikQasimAli/MalikQasimAli.github.io/blob/7425dd1b1895c6dbf08b5dcf89fcab8e9e7e6eec/images/docker.PNG">link</a></li>
 </ol>
 
-<i class="fa-regular fa-handshake fa-sm"></i></i> Research Collaborations and Groups
+<i class="fa-regular fa-handshake fa-sm"></i> Research Collaborations and Groups
 ======
 I am actively invovled in number of collaborations with various research groups within Norway and International research groups.
+<br>
 <ol>
-li> <a href="https://www.hvl.no/prosjekt/2684246/">CIG: Collaboration Interaction and Graphics</a></li>
-li> <a href="https://www.lu.lv/en/">University of latvia</a></li>
-li> <a href="https://www.uio.no/tjenester/it/forskning/kompetansehuber/eyehub/arrangementer_events_eyehub/2023/eyehub-forum-how-eye-tracking-technologies-can-ser.html">EyeHub</a></li>
+<li> <a href="https://www.hvl.no/prosjekt/2684246/">CIG: Collaboration Interaction and Graphics</a></li>
+<li> <a href="https://www.lu.lv/en/">University of latvia</a></li>
+<li> <a href="https://www.uio.no/tjenester/it/forskning/kompetansehuber/eyehub/arrangementer_events_eyehub/2023/eyehub-forum-how-eye-tracking-technologies-can-ser.html">EyeHub</a></li>
 </ol>
 
 Getting started
