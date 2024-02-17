@@ -15,29 +15,29 @@ Projects and Technologies
   <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG</a>, <a href="https://www.mdpi.com/2078-2489/13/12/569">1</a>, <a href="https://ieeexplore.ieee.org/document/9280169">2</a>
    <br>
     <span style="margin-left: 20px;">
-    <i class="fab fa-csharp"></i> C#, 
-    <i class="fab fa-java"></i> JAVA, 
-    <i class="fab fa-python"></i> Python, 
-    <i class="fas fa-database"></i> SQL, 
-    <i class="fas fa-database"></i> PostgreSql
+    <i class="fab fa-csharp fa-sm"></i> C#, 
+    <i class="fab fa-java fa-sm"></i> JAVA, 
+    <i class="fab fa-python fa-sm"></i> Python, 
+    <i class="fas fa-database fa-sm"></i> SQL, 
+    <i class="fas fa-database fa-sm"></i> PostgreSql
   </span></li>
   <li>Data Analysis <a href="https://dl.acm.org/doi/10.1145/3588015.3589536">1</a>, <a href="https://github.com/MalikQasimAli/OlympicDataAnalysis">2</a>
   <br> <span style="margin-left: 20px;">
-    <i class="fab fa-microsoft"></i> Azure Synapse Studio,
-    <i class="fas fa-database"></i> SQL,
-    <i class="fab fa-python"></i> Python,
-    <i class="fa-regular fa-warehouse"></i> Data Warehouse
+    <i class="fab fa-microsoft fa-sm"></i> Azure Synapse Studio,
+    <i class="fas fa-database fa-sm"></i> SQL,
+    <i class="fab fa-python fa-sm"></i> Python,
+    <i class="fa-regular fa-warehouse fa-sm"></i> Data Warehouse
   </span></li>
   <li>Data Engineering from Microsoft Azure
   <br><span style="margin-left: 20px;">
-  <i class="fa-brands fa-microsoft"></i> Azure Synapse Studio,
-  <i class="fas fa-database"></i> NO-SQL,
-  <i class="fas fa-database"></i> SQL,
-  <i class="fab fa-python"></i> Python,
-  <i class="fas fa-water"></i> Data Lake,
-  <i class="fas fa-lake"></i> Delta Lake,
-  <i class="fa-brands fa-connectdevelop"></i> ETL,
-  <i class="fas fa-fire"></i> Spark
+  <i class="fa-brands fa-microsoft fa-sm"></i> Azure Synapse Studio,
+  <i class="fas fa-database fa-sm"></i> NO-SQL,
+  <i class="fas fa-database fa-sm"></i> SQL,
+  <i class="fab fa-python fa-sm"></i> Python,
+  <i class="fas fa-water fa-sm"></i> Data Lake,
+  <i class="fas fa-lake fa-sm"></i> Delta Lake,
+  <i class="fa-brands fa-connectdevelop fa-sm"></i> ETL,
+  <i class="fas fa-fire fa-sm"></i> Spark
   </span> </li>
 </ol>
 
