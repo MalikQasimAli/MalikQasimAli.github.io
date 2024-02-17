@@ -20,6 +20,7 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
     <i class="fab fa-python fa-xs"></i> Python, 
     <i class="fas fa-database fa-xs"></i> SQL, 
     <i class="fas fa-database fa-xs"></i> PostgreSql
+    <i class="fas fa-git fa-xs"></i> Git
   </span></li>
   <li>Data Analysis <a href="https://dl.acm.org/doi/10.1145/3588015.3589536">1</a>, <a href="https://github.com/MalikQasimAli/OlympicDataAnalysis">2</a>
   <br> <span style="margin-left: 20px;">
@@ -30,14 +31,16 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
   </span></li>
   <li>Data Engineering from Microsoft Azure
   <br><span style="margin-left: 20px;">
-  <i class="fa-brands fa-microsoft fa-xs"></i> Azure Synapse Studio,
+  <i class="fa-brands fa-microsoft fa-xs"></i> Databricks,
+  <i class="fa-brands fa-industry fa-xs"></i> Data Factory,
   <i class="fas fa-database fa-xs"></i> NO-SQL,
   <i class="fas fa-database fa-xs"></i> SQL,
   <i class="fab fa-python fa-xs"></i> Python,
   <i class="fas fa-water fa-xs"></i> Data Lake,
   <i class="fas fa-lake fa-xs"></i> Delta Lake,
   <i class="fa-brands fa-connectdevelop fa-xs"></i> ETL,
-  <i class="fas fa-fire fa-xs"></i> Spark
+  <i class="fas fa-fire fa-xs"></i> PySpark 
+  
   </span> </li>
 </ol>
 
@@ -46,6 +49,8 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
 <ol>
 <li> Microsoft Certified: Azure Fundamentals AZ-900</li>
 <li> Microsoft Certified: Azure Data Fundamentals DP-900</li>
+<li> IBM: Data Analysis with Python</li>
+<li> IBM: Docker Essentials</li>
 </ol>
 
 Getting started
