@@ -12,8 +12,8 @@ I'm a final-year PhD candidate at [Western Norway University of Applied Sciences
 Projects and Technologies
 ======
 <ol>
-  <li>Eye-Tracking Technologies (2020-current) at [CIG, HVL](https://www.hvl.no/prosjekt/2684246/)</li>
-  <li>Tea</li>
+  <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG, HVL</a></li>
+  <li>Data Analysis </li>
   <li>Milk</li>
 </ol>
 
