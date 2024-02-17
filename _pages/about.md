@@ -15,7 +15,7 @@ Projects and Technologies
   <li>Eye-tracking Technologies at <a href="https://www.hvl.no/prosjekt/2684246/">CIG</a>, <a href="https://www.mdpi.com/2078-2489/13/12/569">1</a>, <a href="https://ieeexplore.ieee.org/document/9280169">2</a>
    <br>
     <span style="margin-left: 20px;">
-    <i class="fab fa-csharp fa-sm"></i> C#, 
+    <i class="fa-solid fa-c fa-sm"></i> C#, 
     <i class="fab fa-java fa-sm"></i> JAVA, 
     <i class="fab fa-python fa-sm"></i> Python, 
     <i class="fas fa-database fa-sm"></i> SQL, 
