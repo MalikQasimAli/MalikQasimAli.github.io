@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year PhD candidate at Western Norway University of Applied Sciences (HVL) in Bergen, Norway. My areas of research and expertise include <b>Eye-tracking technologies, Data Analysis, and Data Engineering.</b> I have diverse experience from industry and academia with several technologies and programming languages. 
+I'm a final-year PhD candidate at [Western Norway University of Applied Sciences (HVL)](https://hvl.no/en/) in Bergen, Norway. My areas of research and expertise include <b>Eye-tracking technologies, Data Analysis, and Data Engineering.</b> I have diverse experience from industry and academia with several technologies and programming languages.
 
-A data-driven personal website
+Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
