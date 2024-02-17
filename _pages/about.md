@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD stipend at [Western Norway University of Applied Sciences (HVL)](https://hvl.no/en/) from Bergen, Norway. My area of research and expertise are in  <b> Eye-tracking technologies, Data Analysis and Data Engineering.</b>
+I'm a final-year PhD candidate at Western Norway University of Applied Sciences (HVL) in Bergen, Norway. My areas of research and expertise include <b>Eye-tracking technologies, Data Analysis, and Data Engineering.</b> I have diverse experience from industry and academia with several technologies and programming languages. 
 
 A data-driven personal website
 ======
